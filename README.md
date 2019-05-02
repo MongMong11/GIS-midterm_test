@@ -26,5 +26,5 @@
 
 ##### (3) 請將上兩小題輸出一張石虎分布點位（點圖層）以及緩衝區的地圖
 
-將第四圖所有圖層存檔成GPKG檔，並連同專案存成一資料夾，下載開啟GGZ檔即可檢視資料。
+將上述第四個圖層存檔成檔案，分別為Taiwan_Town.gpkg、Leopoard_cat_polygon.gpkg、Leopoard_cat_buffered.gpkg和專案mid-term test 4.qgz，將其下載開起專案即可檢視。
 
